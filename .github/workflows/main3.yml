@@ -39,6 +39,4 @@ jobs:
           fail-on-violations: false
           url: https://cloud.tenable.com/cns
           repo: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY
-          directories:
-            "./demo-terraform/aws"
           # Optional args
