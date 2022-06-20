@@ -40,5 +40,5 @@ jobs:
           url: https://cloud.tenable.com/cns
           repo: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY
           directories:
-            "./demo-terraform/aws/simple-ec2-with-s3-access"
+            "./demo-terraform/aws"
           # Optional args
